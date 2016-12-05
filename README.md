@@ -1,4 +1,12 @@
 doctrine_odm
 ============
 
-A Symfony project created on December 5, 2016, 8:14 pm.
+Sample project built with PHP 7.1 and Doctrine ODM.
+
+## How to install
+
+```
+git@github.com:ryo-utsunomiya/doctrine_odm_with_php7.git
+cd doctrine_odm_with_php7
+composer install
+```
