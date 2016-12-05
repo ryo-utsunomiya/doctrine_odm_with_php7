@@ -1,4 +1,4 @@
-doctrine_odm
+doctrine_odm_with_php7
 ============
 
 Sample project built with PHP 7.1 and Doctrine ODM.
@@ -6,7 +6,7 @@ Sample project built with PHP 7.1 and Doctrine ODM.
 ## How to install
 
 ```
-git@github.com:ryo-utsunomiya/doctrine_odm_with_php7.git
+git clone git@github.com:ryo-utsunomiya/doctrine_odm_with_php7.git
 cd doctrine_odm_with_php7
 composer install
 ```
